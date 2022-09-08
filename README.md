@@ -6,6 +6,8 @@ A movie app based on the TMDB Api.
 
 View live demo here using github pages: [Live Demo](https://hitendra27.github.io/Movie_API/)
 
+View live demo on Railway deployment: [Live Demo on Railway](https://movieapi-production-de8a.up.railway.app/)
+
 ## Screenshots of the App.
 
 <img width="1436" alt="Screenshot 2022-09-03 at 19 41 43" src="https://user-images.githubusercontent.com/73651340/188284213-1f179a6f-5898-4b23-b37b-b2a8e32155c5.png">
